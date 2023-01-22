@@ -1,0 +1,61 @@
+        
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    }
+    body{
+    background: black;
+    
+    }
+    .main_container{
+    background-image: url("virat.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    margin-top:0px;
+    color: white;
+    }
+    .heading{
+        padding-top: 7%;
+        padding-left: 10%;
+        font-size: 90px;
+    }
+    span{
+        font-size: 60px;
+    }
+    .quote{
+        padding-top: 50px;
+        font-style: italic;
+        padding-left: 10%;
+        font-size: 50px;
+    }
+    .quote:hover{
+        color: skyblue;
+    }
+    .sub_head{
+        padding-left: 3%;
+        font-size: 25px;
+        color: rgb(191, 187, 187);
+        margin-top: 20px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .head{
+        font-size: 44px;
+        margin-top: 20px;
+        color: white;
+        margin-left: 3%;
+    }
+    .container2{
+        margin-bottom: 50px;
+    }
+    footer{
+        text-align: center;
+        font-size: 25px;
+        color:red;
+        padding: 10px;
+        margin-bottom: 15px;
+    }
